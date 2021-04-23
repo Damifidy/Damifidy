@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Damifidy
+- 👀 I’m interested in pyrhon
+- 🌱 I’m currently learning javascript and python
+- 💞️ I’m looking to collaborate on a text adventure game
+- 📫 How to reach me 20017901@gibdist.org
