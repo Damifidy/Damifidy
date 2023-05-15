@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damifidy
-- 👀 I’m interested python
-- 🌱 I’m currently learning javascript and python
-- 💞️ I’m looking to collaborate on a text adventure game
+- 👀 I’m interested html/css/javascript
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me 20017901@gibdist.org
