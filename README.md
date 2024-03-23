@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Damifidy
-- 👀 I’m interested html/css/javascript
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me 20017901@gibdist.org
+- 👀 I’m interested HTML/CSS/JavaScript
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on a unblocked games website
+- 📫 How to reach me damienstephenson944@gmail.com
